@@ -55,9 +55,9 @@ bonus_words = len(cards)
 
 while True :
     card = random.choice(cards)
-    which = random.choice(card)
+    question = card[0]
 
-    print (which),
+    print (question),
     if input() == "q" :
         break
     print_card(card)
