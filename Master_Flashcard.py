@@ -15,6 +15,7 @@
 # This program is free software -- please share it under the terms
 # of the GNU Public License.
 
+# Originally (c.2007) written in Python v2.7
 # Re-coded for Python v3.6.3 by Brodie Phillips, 7 November 2017.
 
 import os, sys, random
