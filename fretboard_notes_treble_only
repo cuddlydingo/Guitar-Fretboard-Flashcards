@@ -44,7 +44,7 @@ cards = [
 	[ "1st string 10th fret", "D" ],
 	[ "1st string 11th fret", "D#/Eb" ],
 	[ "1st string 12th fret", "E" ],
-	[ "1st string 13th fret", "F#/Gb" ],
-	[ "1st string 14th fret", "G" ],
-	[ "1st string 15th fret", "G#/Ab" ],
+	[ "1st string 13th fret", "F" ],
+	[ "1st string 14th fret", "F#/Gb" ],
+	[ "1st string 15th fret", "G" ],
 ]
